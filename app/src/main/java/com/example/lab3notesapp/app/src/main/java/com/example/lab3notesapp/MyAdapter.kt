@@ -1,7 +1,8 @@
 /**
+Implemented RecyclerView and custom adapter for displaying notes.
  * Course: MAD204 - Mobile App Development
  * Lab 3 - Persistent Notes App
- * Author: Your Name (Student ID: XXXXXXX)
+ * Author:  Ishmeet Singh (Student ID: A00202436)
  * Description:
  * RecyclerView Adapter for displaying a list of notes.
  */
