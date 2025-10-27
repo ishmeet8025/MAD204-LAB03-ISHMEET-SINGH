@@ -1,4 +1,5 @@
 /**
+Implemented RecyclerView and custom adapter for displaying notes.
  * Course: MAD204 - Mobile App Development
  * Lab 3 - Persistent Notes App
  * Author: Your Name (Student ID: XXXXXXX)
