@@ -2,7 +2,7 @@
 // Added SharedPreferences + GSON persistence for saving notes
  * Course: MAD204 - Mobile App Development
  * Lab 3 - Persistent Notes App
- * Author: Your Name (Student ID: XXXXXXX)
+ * Author: Your Name Ishmeet Singh (Student ID: A00202436)
  * Date: October 2025
  * Description:
  * MainActivity handles displaying, adding, deleting, and persisting notes using RecyclerView and SharedPreferences.
