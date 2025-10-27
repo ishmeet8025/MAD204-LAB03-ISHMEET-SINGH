@@ -1,5 +1,5 @@
 /**
-// Added Add/Delete note logic with Snackbar UNDO feature
+// Added SharedPreferences + GSON persistence for saving notes
  * Course: MAD204 - Mobile App Development
  * Lab 3 - Persistent Notes App
  * Author: Your Name (Student ID: XXXXXXX)
